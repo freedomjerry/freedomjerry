@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=freedomjerry&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs'>
+
 <!--
 **freedomjerry/freedomjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
