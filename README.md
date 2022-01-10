@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just a rookie in programming & master 👋
 
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=freedomjerry&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs'>
 
